@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Easy permissions Test</string>
     <string name="mainText">Easy Permissions</string>
     <string name="pmCameraWasGranted">Permission Granted</string>
