@@ -1,0 +1,2 @@
+1. Añadir a las dependencia del buildgradle(.app): implementation 'pub.devrel:easypermissions:3.0.0', actualizar si es necesario.
+2. Añadir los permisos al Manifest: <uses-permission android:name="android.permission.CAMERA" />
